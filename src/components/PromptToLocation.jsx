@@ -81,8 +81,8 @@ const PromptToLocation = (prompt) => {
         locationString: locationString(),
         units: promptRes.unit,
         country: promptRes.country,
-        USstate: promptRes.USstate
-      }
+        USstate: promptRes.USstate,
+      };
 
       return promptData;
     })

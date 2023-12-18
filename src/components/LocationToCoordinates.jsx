@@ -3,6 +3,7 @@ import PropTypes from "prop-types";
 // Fetch location data from OpenWeatherMap API.
 const LocationToCoordinates = async (locationString) => {
   try {
+    //https://openweathermap.org/api/geocoding-api
     const response = await fetch(
       `https://api.openweathermap.org/geo/1.0/direct?q=${locationString}&limit=1&APPID=${
         import.meta.env.VITE_OWM

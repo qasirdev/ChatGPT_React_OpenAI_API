@@ -3,6 +3,7 @@ import PropTypes from "prop-types";
 // Fetch weather data from OpenWeatherMap API.
 const WeatherData = async (locationData) => {
   try {
+    //https://openweathermap.org/current
     const response = await fetch(
       `https://api.openweathermap.org/data/2.5/weather?lat=${
         locationData[0].lat
