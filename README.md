@@ -1,4 +1,4 @@
-# Build a JavaScript AI App with React and the OpenAI API
+#1- Build a JavaScript AI App with React and the OpenAI API
 This is the repository for the LinkedIn Learning course Build a JavaScript AI App with React and the OpenAI API. The full course is available from [LinkedIn Learning][lil-course-url].
 
 ![Build a JavaScript AI App with React and the OpenAI API][lil-thumbnail-url] 
@@ -48,7 +48,7 @@ Check out my other courses on [LinkedIn Learning](https://www.linkedin.com/learn
 [lil-thumbnail-url]: https://media.licdn.com/dms/image/D560DAQGwwpM5Oem1Pw/learning-public-crop_288_512/0/1694808958256?e=2147483647&v=beta&t=8aOT86V8OE20qAcH8cwG-lc1LhmHB6fCRC0q4hmoVfk
 _See the readme file in the main branch for updated instructions and information._
 
-### For AI assistant: 
+### 2- For AI assistant: 
 [building-custom-agents-with-the-openai-assistant-api--asi--3366139](https://github.com/LinkedInLearning/building-custom-agents-with-the-openai-assistant-api--asi--3366139/tree/main)
 
 ```
@@ -63,3 +63,7 @@ Provide short helpful step-by-step instructions and problem solving related to h
 ```
 ![ai-assitant-all](https://github.com/qasirdev/NEXTJS-TESTING-main-udemy/assets/19289683/12fea968-3369-460f-a6ef-0ffa5fb21013)
 ![ai-assitant-hvac](https://github.com/qasirdev/NEXTJS-TESTING-main-udemy/assets/19289683/456fcf41-af9d-4132-a06d-633ca0dededf)
+
+### 3 - Custom instarunctions:
+https://github.com/microsoft/prompts-for-edu/blob/main/Students/Prompts/Tutor.MD
+![ai-custome-instrunctions](https://github.com/qasirdev/NEXTJS-TESTING-main-udemy/assets/19289683/05258789-90e7-4c77-a7fe-24ad9c7e1c6c)
