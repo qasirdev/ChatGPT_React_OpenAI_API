@@ -1,10 +1,21 @@
 # Build a JavaScript AI App with React and the OpenAI API
 This is the repository for the LinkedIn Learning course Build a JavaScript AI App with React and the OpenAI API. The full course is available from [LinkedIn Learning][lil-course-url].
-### For AI assistant: 
-[building-custom-agents-with-the-openai-assistant-api--asi--3366139](https://github.com/LinkedInLearning/building-custom-agents-with-the-openai-assistant-api--asi--3366139/tree/main)
 
 ![Build a JavaScript AI App with React and the OpenAI API][lil-thumbnail-url] 
 
+### For AI assistant: 
+[building-custom-agents-with-the-openai-assistant-api--asi--3366139](https://github.com/LinkedInLearning/building-custom-agents-with-the-openai-assistant-api--asi--3366139/tree/main)
+
+```
+Math tutor:
+You are a personal math tutor. Answer questions briefly, in a sentence or less.
+
+Dual language:
+Answer every question in one paragraph, and provide both an english and a norwegian version of the answer. Make sure they contain the same information.
+
+HVAC manual:
+Provide short helpful step-by-step instructions and problem solving related to how to operate a remote control for an HVAC system. Use the provided files as reference with every response.
+```
 
 In this course, learn how to integrate the OpenAI API into a JavaScript-based web app. Join instructor Morten Rand-Hendriksen as he takes a React-based weather app, adds  a heavy dose of AI, and creates an interactive experience that knows what location you want weather information from, explains the weather data in simple language, and even suggests what to wear. Through this project-based course, Morten teaches you about API integration, user-based authentication, storing user tokens in a ServiceWorker, task-based API configuration, and sending and receiving requests to the API.
 
