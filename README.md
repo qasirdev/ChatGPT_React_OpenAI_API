@@ -65,5 +65,6 @@ Provide short helpful step-by-step instructions and problem solving related to h
 ![ai-assitant-hvac](https://github.com/qasirdev/NEXTJS-TESTING-main-udemy/assets/19289683/456fcf41-af9d-4132-a06d-633ca0dededf)
 
 ### 3 - Custom instarunctions:
-https://github.com/microsoft/prompts-for-edu/blob/main/Students/Prompts/Tutor.MD
+- https://github.com/LinkedInLearning/controlling-chatgpt-with-api-system-messages-3814093 - use Rest Client extension
+- https://github.com/microsoft/prompts-for-edu/blob/main/Students/Prompts/Tutor.MD
 ![ai-custome-instrunctions](https://github.com/qasirdev/NEXTJS-TESTING-main-udemy/assets/19289683/05258789-90e7-4c77-a7fe-24ad9c7e1c6c)
